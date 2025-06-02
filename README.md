@@ -34,7 +34,13 @@ Compared to a reference genome, a pangenome is a less biased, more comprehensive
 While the pangenome may provide greater insight into questions related to the genetic and genomic nature of a species, these data require the use of bioinformatics tools that are different than those typically used on reference genomes.
 This module aims to introduce you to the idea of *pangenome graphs* and the bioinformatics tools used for their analysis.
 
-This video XXX has a brief overview of pangenomics and this module.
+<p align="center">
+<a href="https://www.youtube.com/watch?v=_wn_F55hA1Y&list=PLXaEJPtnQ4w7Vu7vqWbttBjUGrPp4Qa7b&index=12">
+<img src="images/nm_video1.png" alt="Introduction to Pangenomics: Cloud Module", width="550"/>
+</a>
+<br>
+<span> Click above image to watch this video </span>
+</p>
 
 
 ## **Before Starting**
@@ -72,7 +78,7 @@ See the [Vertex AI Quickstart instructions](https://cloud.google.com/vertex-ai/d
 To install the software for this module in JupyterLab, open a Terminal ("File" -> "New Launcher" -> "Terminal") and run the following commands:
 ```bash
 cd ~
-git clone https://github.com/ncgr/NIGMS-Sandbox-Pangenomics-Module.git NIGMS-Sandbox-Pangenomics-Module
+git clone https://github.com/NIGMS/Intro-to-Pangenomics
 bash -i ./NIGMS-Sandbox-Pangenomics-Module/scripts/0-setup.sh
 ```
 After the last command completes, close the terminal and restart the VM instance in the Vertex AI Workbench.
