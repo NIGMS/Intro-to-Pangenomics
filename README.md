@@ -1,4 +1,4 @@
-![Modle Anchor](images/anchor.png)
+![Modle Anchor](images/anchor2.svg)
 
 # NIGMS Sandbox: Pangenomics Module
 ---------------------------------
